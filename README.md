@@ -14,7 +14,7 @@ npm install （or cnpm install）
 npm start
 ```
 
-### 第三步打包生产
+### 打包生产
 
 ```bash
 npm run build
